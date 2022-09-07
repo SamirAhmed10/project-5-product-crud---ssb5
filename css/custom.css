@@ -1,0 +1,61 @@
+/* Backend */
+.login-wrapper .mb-4{
+    background: maroon;
+    color: ghostwhite;
+    padding: 10px 20px;
+   
+}
+.login-wrapper .mb-4 ul{
+    padding: 10;
+    margin: 0;
+
+}
+.login-wrapper .mb-4 li{
+    text-align: center;
+ 
+}
+.password-wrapper .mb-4{
+    background: #eee;
+    color: #333;
+    padding: 10px 20px;
+}
+.action-button ul{
+    padding: 0;
+    margin: 0;
+}
+.action-button ul li {
+   
+    display: inline; 
+    list-style: none;
+    margin: 0 5px;
+
+}
+.action-button ul li .fa-edit{
+    color: green;
+}
+.action-button ul li .fa-trash{
+    color: red;
+}
+.modal-buttons{
+    text-align: center;
+}
+.modal-buttons form{
+    display:inline;
+    text-align: center;
+    
+}
+.modal-buttons ul{
+    padding: 0px;
+    margin: 0;
+}
+.modal-buttons ul li{
+    display: inline; 
+    list-style: none;
+    margin: 10px 10px;
+   
+}
+.br-pagebody .br-section-wrapper h4
+{
+    display: inline;
+    color: black;
+}
